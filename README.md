@@ -1,1 +1,3 @@
-# python-examples-
+# python-examples
+
+# jednoduche priklady pro nauceni python jazyka
